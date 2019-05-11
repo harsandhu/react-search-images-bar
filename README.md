@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## This is a simple react application to search images. Sign up on unsplash and insert the authorization header in
+##   src/api/unsplash.js file
+
 ## Available Scripts
 
 In the project directory, you can run:
